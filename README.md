@@ -1,4 +1,4 @@
 # decision-trees
 Decision Trees and Random Forests. Moons dataset
 
-### Check out decision_trees.ipynb for the project walkthrough
+### Check out decision_tree.ipynb for the project walkthrough
